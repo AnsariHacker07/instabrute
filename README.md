@@ -7,9 +7,9 @@ Installation in termux
 
      pkg install git
 
-     git clone https://github.com/AnsariHacker07/instagram-bruteforce
+     git clone https://github.com/AnsariHacker07/instabrute
 
-     cd instagram-bruteforce
+     cd instabrute
 
      chmod +x instabrute.py
 
