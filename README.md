@@ -1,18 +1,17 @@
 Installation in termux
 ===========================
+pkg update
 
-     pkg upgrade
+pkg upgrade
 
-     pkg update
+pkg install git
 
-     pkg install git
+git clone https://github.com/AnsariHacker07/instabrute
 
-     git clone https://github.com/AnsariHacker07/instabrute
+cd instabrute
 
-     cd instabrute
+chmod +x instabrute.py
 
-     chmod +x instabrute.py
+python instabrute.py
 
-     python instabrute.py
-
-note : use your own passlist tool passlist is coming soon
+note : passlist = password.txt
