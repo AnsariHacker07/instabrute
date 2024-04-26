@@ -27,7 +27,7 @@ print('''
 
 
 Author   : Hacker Ansari
-Github : https://github.com/hacker_ansari_07
+Github : https://github.com/AnsariHacker07
 instagram : https://instagram.com/hacker_ansari_07
 Thank you for using this tool
 
